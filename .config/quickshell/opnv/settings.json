@@ -1,0 +1,22 @@
+{
+    "stations": [
+        "Märjamaa",
+        "Rapla",
+        "Orgita ristmik"
+    ],
+    "routes": [
+        { "id": "kaugliinid_71f447f5113d2fa7220b7d4f6f9902d5", "start_stop": "Tallinna bussijaam", "direction": "Pärnu bussijaam" },
+        { "id": "kaugliinid_25a779163a07dff6f0fabfc143945535", "start_stop": "Tallinna bussijaam", "direction": "Pärnu bussijaam" },
+        { "id": "kaugliinid_44f91ef80be190391c4b070cddb75624", "start_stop": "Tallinna bussijaam", "direction": "Pärnu bussijaam" },
+        { "id": "kaugliinid_44f91ef80be190391c4b070cddb75624", "start_stop": "Tallinna bussijaam", "direction": "Pärnu bussijaam" },
+        { "id": "kaugliinid_8c0385517af740169603fe732a6d0889", "start_stop": "Tallinna bussijaam", "direction": "Pärnu bussijaam" },
+        { "id": "kaugliinid_a52dcdc65dea12bbdb4c9cb10130c2a3", "start_stop": "Tallinna bussijaam", "direction": "Pärnu bussijaam" },
+        { "id": "kaugliinid_2b652dbe3f7643ea403e6a2c959575d6", "start_stop": "Tallinna bussijaam", "direction": "Pärnu bussijaam" },
+        { "id": "kaugliinid_c1aff6415649952dddb2e3549fcd2c20", "start_stop": "Tallinna bussijaam", "direction": "Pärnu bussijaam" },
+        { "id": "kaugliinid_e7dfaa6ec651faf289d34b3d2dde9f14", "start_stop": "Tallinna bussijaam", "direction": "Pärnu bussijaam" },
+        { "id": "kaugliinid_3b4f523798bb0b596ed7b561e0028635", "start_stop": "Tallinna bussijaam", "direction": "Pärnu bussijaam" },
+        { "id": "kaugliinid_8c043269a1ba3d1173ce0ffe6ae1f6e8", "start_stop": "Tallinna bussijaam", "direction": "Pärnu bussijaam" },
+        { "id": "kaugliinid_97d9cf78f4eccd264c3ae2d3c9522dc8", "start_stop": "Tallinna bussijaam", "direction": "Pärnu bussijaam" },
+        { "id": "kaugliinid_d3e91a0fed2522205fdc5b94b702e435", "start_stop": "Tallinna bussijaam", "direction": "Pärnu bussijaam" }
+    ]
+}

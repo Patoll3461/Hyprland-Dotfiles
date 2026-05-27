@@ -1,0 +1,286 @@
+{
+"departures": [
+  {
+    "stop_id": "elron_34051",
+    "trip_id": "elron_Edel_12.02-04.05.2026-We-7d76b1660b66eeae7ba6b93dd7d5d251-1-B-OB-1724-98a9ba2",
+    "stop_sequence": 14,
+    "arrival_time": "18:25:00",
+    "departure_time": "21:37:00",
+    "trip_headsign": "Viljandi",
+    "trip_short_name": "Tallinn - Viljandi",
+    "route_id": "elron_7d76b1660b66eeae7ba6b93dd7d5d251-1",
+    "route_short_name": "R23",
+    "route_long_name": "Tallinn - Viljandi",
+    "route_type": 2,
+    "vehicle": "train",
+    "stationName": "Rapla",
+    "delay": 0,
+    "importantStops": [
+      {
+        "stop_sequence": 16,
+        "stop_name": "Lelle",
+        "route_count": 3
+      },
+      {
+        "stop_sequence": 17,
+        "stop_name": "Käru",
+        "route_count": 3
+      }
+    ]
+  },
+  {
+    "stop_id": "kaugliinid_142790",
+    "trip_id": "kaugliinid_214LUX_alates_01.01.26_talv-We-2b652dbe3f7643ea403e6a2c959575d6-A-OB-1730-18e563e",
+    "stop_sequence": 4,
+    "arrival_time": "18:25:00",
+    "departure_time": "18:25:00",
+    "trip_headsign": "Pärnu bussijaam",
+    "trip_short_name": "Tallinn - Pärnu",
+    "route_id": "kaugliinid_2b652dbe3f7643ea403e6a2c959575d6",
+    "route_short_name": "214",
+    "route_long_name": "Tallinn - Pärnu",
+    "route_type": 3,
+    "vehicle": "lux express",
+    "stationName": "Orgita ristmik",
+    "delay": 0,
+    "importantStops": [
+      {
+        "stop_sequence": 6,
+        "stop_name": "Härma",
+        "route_count": 14
+      },
+      {
+        "stop_sequence": 7,
+        "stop_name": "Tallinna maantee",
+        "route_count": 15
+      }
+    ]
+  },
+  {
+    "stop_id": "kaugliinid_142790",
+    "trip_id": "kaugliinid_270_Est.Lines-We-c1aff6415649952dddb2e3549fcd2c20-A-OB-1800-bee992e",
+    "stop_sequence": 5,
+    "arrival_time": "18:55:00",
+    "departure_time": "18:55:00",
+    "trip_headsign": "Pärnu bussijaam",
+    "trip_short_name": "Tallinn - Pärnu",
+    "route_id": "kaugliinid_c1aff6415649952dddb2e3549fcd2c20",
+    "route_short_name": "270",
+    "route_long_name": "Pärnu - Tallinn",
+    "route_type": 3,
+    "vehicle": "bus",
+    "stationName": "Orgita ristmik",
+    "delay": 0,
+    "importantStops": [
+      {
+        "stop_sequence": 8,
+        "stop_name": "Jänesselja",
+        "route_count": 14
+      },
+      {
+        "stop_sequence": 10,
+        "stop_name": "Tallinna maantee",
+        "route_count": 15
+      }
+    ]
+  },
+  {
+    "stop_id": "kaugliinid_123166",
+    "trip_id": "kaugliinid_GoBus_Iga_päev-We-44f91ef80be190391c4b070cddb75624-A-IB-1800-12a6b28",
+    "stop_sequence": 7,
+    "arrival_time": "19:00:00",
+    "departure_time": "19:00:00",
+    "trip_headsign": "Tallinna bussijaam",
+    "trip_short_name": "Pärnu - Märjamaa - Tallinn",
+    "route_id": "kaugliinid_44f91ef80be190391c4b070cddb75624",
+    "route_short_name": "235",
+    "route_long_name": "Pärnu - Märjamaa - Tallinn",
+    "route_type": 3,
+    "vehicle": "bus",
+    "stationName": "Märjamaa",
+    "delay": 0,
+    "importantStops": [
+      {
+        "stop_sequence": 14,
+        "stop_name": "Vana-Pääsküla",
+        "route_count": 30
+      },
+      {
+        "stop_sequence": 15,
+        "stop_name": "Järve",
+        "route_count": 12
+      }
+    ]
+  },
+  {
+    "stop_id": "elron_34148",
+    "trip_id": "elron_Edel_12.02-04.05.2026-We-cbb788f29a7fbf4d1816bf386eb5db56-A-IB-1915-8c3b256",
+    "stop_sequence": 1,
+    "arrival_time": "19:15:00",
+    "departure_time": "19:15:00",
+    "trip_headsign": "Tallinn",
+    "trip_short_name": "Rapla - Tallinn",
+    "route_id": "elron_cbb788f29a7fbf4d1816bf386eb5db56",
+    "route_short_name": "R21",
+    "route_long_name": "Tallinn - Rapla",
+    "route_type": 2,
+    "vehicle": "train",
+    "stationName": "Rapla",
+    "delay": 0,
+    "importantStops": [
+      {
+        "stop_sequence": 7,
+        "stop_name": "Kiisa",
+        "route_count": 4
+      },
+      {
+        "stop_sequence": 13,
+        "stop_name": "Tallinn-Väike",
+        "route_count": 4
+      }
+    ]
+  },
+  {
+    "stop_id": "kaugliinid_33183",
+    "trip_id": "kaugliinid_Lux1-We-3b4f523798bb0b596ed7b561e0028635-B-OB-1900-07d22cf",
+    "stop_sequence": 2,
+    "arrival_time": "19:30:00",
+    "departure_time": "19:30:00",
+    "trip_headsign": "Pärnu bussijaam",
+    "trip_short_name": "Tallinn - Pärnu",
+    "route_id": "kaugliinid_3b4f523798bb0b596ed7b561e0028635",
+    "route_short_name": "217",
+    "route_long_name": "Tallinn - Pärnu",
+    "route_type": 3,
+    "vehicle": "lux express",
+    "stationName": "Tallinna bussijaam",
+    "routeId": "kaugliinid_3b4f523798bb0b596ed7b561e0028635",
+    "delay": 0,
+    "importantStops": [
+      {
+        "stop_sequence": 3,
+        "stop_name": "Virve",
+        "route_count": 16
+      },
+      {
+        "stop_sequence": 4,
+        "stop_name": "Vana-Pääsküla",
+        "route_count": 32
+      }
+    ]
+  },
+  {
+    "stop_id": "kaugliinid_142789",
+    "trip_id": "kaugliinid_211LUX_alates_01.01.26-We-a52dcdc65dea12bbdb4c9cb10130c2a3-A-IB-1900-1c7b620",
+    "stop_sequence": 3,
+    "arrival_time": "19:48:00",
+    "departure_time": "19:48:00",
+    "trip_headsign": "Tallinna bussijaam",
+    "trip_short_name": "Pärnu - Tallinn",
+    "route_id": "kaugliinid_a52dcdc65dea12bbdb4c9cb10130c2a3",
+    "route_short_name": "211",
+    "route_long_name": "Tallinn - Pärnu",
+    "route_type": 3,
+    "vehicle": "lux express",
+    "stationName": "Orgita ristmik",
+    "delay": 0,
+    "importantStops": [
+      {
+        "stop_sequence": 4,
+        "stop_name": "Vana-Pääsküla",
+        "route_count": 30
+      },
+      {
+        "stop_sequence": 5,
+        "stop_name": "Risti",
+        "route_count": 17
+      }
+    ]
+  },
+  {
+    "stop_id": "elron_34051",
+    "trip_id": "elron_Edel_12.02-04.05.2026-We-3d9ef6b5c00defff833425794065056e-A-OB-1854-59aa5eb",
+    "stop_sequence": 14,
+    "arrival_time": "19:55:00",
+    "departure_time": "19:55:00",
+    "trip_headsign": "Türi",
+    "trip_short_name": "Tallinn - Türi",
+    "route_id": "elron_3d9ef6b5c00defff833425794065056e",
+    "route_short_name": "R22",
+    "route_long_name": "Tallinn - Türi",
+    "route_type": 2,
+    "vehicle": "train",
+    "stationName": "Rapla",
+    "delay": 0,
+    "importantStops": [
+      {
+        "stop_sequence": 16,
+        "stop_name": "Lelle",
+        "route_count": 3
+      },
+      {
+        "stop_sequence": 17,
+        "stop_name": "Käru",
+        "route_count": 3
+      }
+    ]
+  },
+  {
+    "stop_id": "kaugliinid_33183",
+    "trip_id": "kaugliinid_GoBus_Iga_päev-We-e7dfaa6ec651faf289d34b3d2dde9f14-A-OB-2000-483baa0",
+    "stop_sequence": 1,
+    "arrival_time": "20:00:00",
+    "departure_time": "20:00:00",
+    "trip_headsign": "Pärnu bussijaam",
+    "trip_short_name": "Tallinn - Pärnu",
+    "route_id": "kaugliinid_e7dfaa6ec651faf289d34b3d2dde9f14",
+    "route_short_name": "237",
+    "route_long_name": "Pärnu - Tallinn",
+    "route_type": 3,
+    "vehicle": "bus",
+    "stationName": "Tallinna bussijaam",
+    "routeId": "kaugliinid_e7dfaa6ec651faf289d34b3d2dde9f14",
+    "delay": 0,
+    "importantStops": [
+      {
+        "stop_sequence": 2,
+        "stop_name": "Vana-Pääsküla",
+        "route_count": 32
+      },
+      {
+        "stop_sequence": 8,
+        "stop_name": "Tallinna maantee",
+        "route_count": 15
+      }
+    ]
+  },
+  {
+    "stop_id": "kaugliinid_142790",
+    "trip_id": "kaugliinid_Lux1-We-3b4f523798bb0b596ed7b561e0028635-B-OB-1900-07d22cf",
+    "stop_sequence": 5,
+    "arrival_time": "20:25:00",
+    "departure_time": "20:25:00",
+    "trip_headsign": "Pärnu bussijaam",
+    "trip_short_name": "Tallinn - Pärnu",
+    "route_id": "kaugliinid_3b4f523798bb0b596ed7b561e0028635",
+    "route_short_name": "217",
+    "route_long_name": "Tallinn - Pärnu",
+    "route_type": 3,
+    "vehicle": "lux express",
+    "stationName": "Orgita ristmik",
+    "delay": 0,
+    "importantStops": [
+      {
+        "stop_sequence": 6,
+        "stop_name": "Jänesselja",
+        "route_count": 14
+      },
+      {
+        "stop_sequence": 8,
+        "stop_name": "Tallinna maantee",
+        "route_count": 15
+      }
+    ]
+  }
+]
+}
