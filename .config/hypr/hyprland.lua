@@ -15,14 +15,15 @@
 ------------------
 -----Requires-----
 ------------------
-require("windowrules")
-require("keybinds")
+
 require("monitors")
-require("autostart")
 require("environment")
-require("animations")
 require("input")
 require("colors")
+require("keybinds")
+require("autostart")
+require("windowrules")
+require("animations")
 
 -----------------------
 ----- PERMISSIONS -----
@@ -55,8 +56,8 @@ hl.config({
         border_size = 2,
 
         col = {
-            active_border = { colors = {"rgba(c28df7ee)", "rgba(7d6a8aee)"}, angle = 45 },
-            inactive_border = "rgba(3f055eaa)",
+            active_border = { colors = Colors.borderActive, angle = 45 },
+            inactive_border = Colors.borderInactive,
         },
 
         resize_on_border = false,
@@ -97,20 +98,6 @@ hl.config({
 hl.config({
     dwindle = {
         preserve_split = true, -- You probably want this
-    },
-})
-
--- See https://wiki.hypr.land/Configuring/Layouts/Master-Layout/ for more
-hl.config({
-    master = {
-        new_status = "master",
-    },
-})
-
--- See https://wiki.hypr.land/Configuring/Layouts/Scrolling-Layout/ for more
-hl.config({
-    scrolling = {
-        fullscreen_on_one_column = true,
     },
 })
 

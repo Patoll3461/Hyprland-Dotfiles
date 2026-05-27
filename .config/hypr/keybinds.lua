@@ -26,6 +26,9 @@ hl.bind(mainMod .. " + M", hl.dsp.exec_cmd("command -v hyprshutdown >/dev/null 2
 hl.bind(mainMod .. " + Backspace", hl.dsp.exec_cmd("shutdown now"))
 hl.bind(mainMod .. " + L", hl.dsp.exec_cmd("hyprlock"))
 
+-- Utilities
+hl.bind(mainMod .. " + P", hl.dsp.exec_cmd("sh -c 'printf %s $(hyprpicker) | wl-copy'"))
+
 -- Move focus with mainMod + arrow keys
 hl.bind(mainMod .. " + left",  hl.dsp.focus({ direction = "left" }))
 hl.bind(mainMod .. " + right", hl.dsp.focus({ direction = "right" }))
