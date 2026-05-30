@@ -65,7 +65,4 @@ hl.window_rule({
 -- give transparency
 hl.window_rule({ match = { class = ".*" }, opacity = "0.85 0.85 1.0"})
 
-hl.window_rule({
-    match = { class = "code-oss" },
-    tile = true,
-})
+hl.window_rule({ match = { fullscreen = true }, idle_inhibit = "focus"})
