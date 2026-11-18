@@ -17,8 +17,11 @@ local mainMod = "SUPER" -- Sets "Windows" key as main modifier
 hl.bind(mainMod .. " + T", hl.dsp.exec_cmd(terminal))
 local closeWindowBind = hl.bind(mainMod .. " + Q", hl.dsp.window.close())
 hl.bind(mainMod .. " + E", hl.dsp.exec_cmd(fileManager))
-hl.bind(mainMod .. " + A", hl.dsp.exec_cmd("rofi -show drun"))
 hl.bind(mainMod .. " + F", hl.dsp.exec_cmd(browser))
+
+-- Rofi
+hl.bind(mainMod .. " + A", hl.dsp.exec_cmd("rofi -show drun"))
+hl.bind(mainMod .. " + V", hl.dsp.exec_cmd("cliphist list | rofi -dmenu -display-columns 2 | cliphist decode | wl-copy"))
 
 -- Shutdown and Logout Buttons
 hl.bind(mainMod .. " + M", hl.dsp.exec_cmd("command -v hyprshutdown >/dev/null 2>&1 && hyprshutdown || hyprctl dispatch 'hl.dsp.exit()'"))

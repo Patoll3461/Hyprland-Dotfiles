@@ -69,6 +69,7 @@ alias rmpkg="sudo pacman -Rsn"
 alias cleanch="sudo pacman -Scc"
 alias fixpacman="sudo rm /var/lib/pacman/db.lck"
 alias update="sudo pacman -Syu"
+alias pkexec='pkexec env WAYLAND_DISPLAY="$XDG_RUNTIME_DIR/$WAYLAND_DISPLAY" XDG_RUNTIME_DIR=/run/user/0'
 
 # Help people new to Arch
 alias apt="man pacman"
@@ -103,3 +104,16 @@ source /usr/share/doc/pkgfile/command-not-found.zsh
 export FZF_BASE=/usr/share/fzf
 
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#5c4a6e"
+
+#pyenv
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
+
+export PYENV_ROOT="$HOME/.pyenv"
+[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init -)"
+
+eval "$(pyenv init --path)"
+eval "$(pyenv init -)"
+export PATH="$HOME/.local/bin:$PATH"
+

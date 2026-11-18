@@ -8,11 +8,18 @@
 -- Or execute your favorite apps at launch like this:
 --
 hl.on("hyprland.start", function () 
+   hl.exec_cmd("/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1")
+   hl.exec_cmd("dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP XDG_SESSION_TYPE")
    hl.exec_cmd("nm-applet")
-   hl.exec_cmd("hyprpaper")
    hl.exec_cmd("blueman-applet")
-   hl.exec_cmd("quickshell -c Bar")
    hl.exec_cmd("awww-daemon")
-   hl.exec_cmd("awww img /home/patoll/Downloads/germoney/black.jpg")
+   hl.exec_cmd("awww img /home/patoll/Downloads/black.jpg")
    hl.exec_cmd("hypridle")
+   hl.exec_cmd("kdeconnectd")
+   hl.exec_cmd("kdeconnect-indicator")
+   hl.exec_cmd("wl-paste --type text --watch cliphist store")
+   hl.exec_cmd("wl-paste --type image --watch cliphist store")
+   hl.exec_cmd("wl-clip-persist --clipboard regular")
+   hl.exec_cmd("quickshell -c Bar")
 end)
+

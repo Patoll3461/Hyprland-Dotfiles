@@ -19,6 +19,13 @@ Rectangle {
 
         Repeater {
             model: SystemTray.items.values
+            property var items: SystemTray.items.values
+
+            onModelChanged: {
+                for (var item of items) {
+                    console.log(item.title)
+                }
+            }
 
             delegate: Item {
                 id: sysDelegate

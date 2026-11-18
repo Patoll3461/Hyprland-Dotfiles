@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56908f55-ca35-439d-8fc9-8d9f188f14f1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.config/gtk-3.0/bookmarks" beforeDir="false" afterPath="$PROJECT_DIR$/../.config/gtk-3.0/bookmarks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.config/hypr/autostart.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../.config/hypr/autostart.lua" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.config/hypr/keybinds.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../.config/hypr/keybinds.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.config/quickshell/Bar/SystemTrayBar.qml" beforeDir="false" afterPath="$PROJECT_DIR$/../.config/quickshell/Bar/SystemTrayBar.qml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.config/quickshell/art/current.png" beforeDir="false" afterPath="$PROJECT_DIR$/../.config/quickshell/art/current.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.local/share/fonts/.uuid" beforeDir="false" afterPath="$PROJECT_DIR$/../.local/share/fonts/.uuid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.local/share/fonts/CascadiaCove/.uuid" beforeDir="false" afterPath="$PROJECT_DIR$/../.local/share/fonts/CascadiaCove/.uuid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.local/share/fonts/CascadiaCove/CascadiaCove/.uuid" beforeDir="false" afterPath="$PROJECT_DIR$/../.local/share/fonts/CascadiaCove/CascadiaCove/.uuid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.local/share/fonts/JetBrains/.uuid" beforeDir="false" afterPath="$PROJECT_DIR$/../.local/share/fonts/JetBrains/.uuid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.local/share/fonts/MapleMono/.uuid" beforeDir="false" afterPath="$PROJECT_DIR$/../.local/share/fonts/MapleMono/.uuid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.local/share/fonts/MaterialDesign/.uuid" beforeDir="false" afterPath="$PROJECT_DIR$/../.local/share/fonts/MaterialDesign/.uuid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.local/share/fonts/Mononoki/.uuid" beforeDir="false" afterPath="$PROJECT_DIR$/../.local/share/fonts/Mononoki/.uuid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.local/share/fonts/NotoSansCJK/.uuid" beforeDir="false" afterPath="$PROJECT_DIR$/../.local/share/fonts/NotoSansCJK/.uuid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.zshrc" beforeDir="false" afterPath="$PROJECT_DIR$/../.zshrc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
